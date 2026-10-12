@@ -79,6 +79,20 @@ The `gameObject` function is already provided and includes nested objects repres
 7. **`bigShoeRebounds()`**  
    Finds the player with the largest shoe size and returns their number of rebounds.
 
+### Additional Player and Team Analysis
+
+8. **`mostPointsScored()`**
+   Returns the highest individual points total.
+
+9. **`winningTeam()`**
+   Returns the name of the team with the highest combined points total.
+
+10. **`playerWithLongestName()`**
+    Returns the name of the player whose name has the most characters.
+
+11. **`doesLongNameStealATon()`**
+    Returns `true` if the player with the longest name has the highest steals total; otherwise returns `false`.
+
 ---
 
 ### 3. Test Your Implementation
